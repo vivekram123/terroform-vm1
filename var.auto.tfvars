@@ -1,4 +1,4 @@
-project_id="winter-berm-453805-n5"
+project_id="xxxxx"
 region="asia-south2"
 zone="asia-south2-a"
 subnetwork="delhi-subnet-pub"
